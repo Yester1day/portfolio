@@ -1,12 +1,17 @@
 .nav{
-    /*text-transform: initial;*/
-
+    color: white;
+    text-transform: initial;
     font-size:20px;
     border: 2px solid;
     width: 300px;
     display: flex;
     justify-content: space-around;
 
+}
+
+.text {
+    color: white;
+    text-decoration: none;
 }
 
 
