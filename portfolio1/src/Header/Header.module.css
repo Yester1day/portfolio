@@ -1,12 +1,11 @@
 .header {
     height: 50px;
     border: 2px solid white;
-    background-color: #62488c;
+    /*background-color: #62488c;*/
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
     align-items: center;
-
-
+    flex-wrap: wrap;
 
 
 }
