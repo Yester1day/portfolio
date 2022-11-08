@@ -1,5 +1,6 @@
 .skillsBlock {
     height: 100vh;
+    margin: 20px auto;
     /*background-color: #5f5fbb;*/
 
 
@@ -7,7 +8,7 @@
 
 .skillsContainer {
     border: 2px solid white;
-    height: 100%;
+    height: 80%;
     width: 80%;
     margin: 0 auto;
     display: flex;

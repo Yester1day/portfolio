@@ -4,7 +4,7 @@ import s from "./MyProj.module.css";
 
 function MyProj(props) {
     return (
-        <div className={s.projBlock}>
+        <div id='project' className={s.projBlock}>
             <div className={s.projectContainer}>
                 <h4 className={s.title}>My Projects</h4>
                 <div className={s.project}>

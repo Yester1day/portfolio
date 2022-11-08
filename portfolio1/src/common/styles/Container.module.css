@@ -2,13 +2,15 @@
     border: 2px solid white;
     height: 100%;
     width: 80%;
-    margin: 0 auto;
+    margin: 10px auto;
     background-color: rgba(255, 255, 255, 0.38);
 
 
     display: flex;
-    justify-content: center ;
-    align-items: flex-start;
+
+    justify-content: space-around ;
+
+    align-items: center; /* выравнивание текста и фото по центру */
     flex-wrap: wrap;
 
 

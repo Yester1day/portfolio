@@ -5,7 +5,7 @@ import Skill from "./Skill/Skill";
 
 function Skills(props) {
     return (
-        <div className={s.skillsBlock}>
+        <div id='skills'  className={s.skillsBlock}>
             <div className={s.skillsContainer}>
                 <h2 className={s.title}> My Skills</h2>
 
